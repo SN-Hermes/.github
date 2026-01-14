@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![SN-Hermes Banner](https://via.placeholder.com/800x200/1a1a2e/16213e?text=SN-Hermes+%7C+Decentralized+Data+Indexing+on+Bittensor)
+![SN-Hermes Banner](../statics/1500x500.jpg)
 
 **A Decentralized Network for Blockchain Data Querying**
 
