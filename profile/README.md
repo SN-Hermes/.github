@@ -90,9 +90,9 @@ SN-Hermes operates on the Bittensor mainnet using **$TAO** for all economic acti
 
 ## Roadmap
 
-- **Q1 2026** - Key R&D: GraphQL query agents, dual scoring mechanism, economic model design
-- **Q2 2026** - Testnet launch with incentivized competition
-- **Q3 2026** - Mainnet launch on Bittensor
+- **Q3 2025** - Testnet launch with incentivized competition
+- **Q4 2025** - Key R&D: GraphQL query agents, dual scoring mechanism, economic model design
+- **Q1 2026** - Mainnet launch on Bittensor
 
 ## Get Involved
 
