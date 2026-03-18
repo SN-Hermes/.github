@@ -9,7 +9,7 @@
 [![Bittensor](https://img.shields.io/badge/Built%20on-Bittensor-blue)](https://bittensor.com)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
-[Website](https://subquery.network/hermes) • [Litepaper](https://github.com/SN-Hermes/.github/blob/main/profile/LITEPAPER.md) • [Discord](https://discord.gg/sn-hermes) • [Twitter](https://twitter.com/@HermesSubnet)
+[Website](https://hermes-subnet.ai) • [Litepaper](https://github.com/SN-Hermes/.github/blob/main/profile/LITEPAPER.md) • [Discord](https://discord.gg/sn-hermes) • [Twitter](https://twitter.com/@HermesSubnet)
 
 </div>
 
@@ -57,7 +57,7 @@ graph TB
 |-----------|-------------|
 | **Validators** | Generate synthetic challenges, evaluate miner performance, and submit scores to Bittensor chain |
 | **Miners** | Process challenges, provide data, and optimize for speed and accuracy |
-| **Authorized Callers** | Services integrating with the subnet (e.g., OnFinality AI Agent, AskSubQuery.xyz) |
+| **Authorized Callers** | Services integrating with the subnet (e.g., OnFinality AI Agent, AskSubQuery.xyz, app.hermes-subnet.ai) |
 | **Hermes Subnet App** | Staking and voting interface for project prioritization |
 
 ## How It Works
