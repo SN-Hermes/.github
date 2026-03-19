@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![SN-Hermes Banner](../statics/1500x500.jpg)
+![SN-Hermes Banner](../statics/1500x500.png)
 
 **A Decentralized Network for Blockchain Data Querying**
 
